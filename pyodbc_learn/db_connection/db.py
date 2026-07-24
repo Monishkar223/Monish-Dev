@@ -1,1 +1,2 @@
 print("*********** MASTER")
+print("hi")

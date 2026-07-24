@@ -1,2 +1,2 @@
-print("*********** MASTER")
-print("Hi")
+print("***********")
+
